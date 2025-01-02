@@ -46,7 +46,7 @@ To run the project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/thb-usd-exchange-rate-prediction.git
+   git clone https://github.com/Gsingh225/thb-usd-exchange-rate-prediction.git
    cd thb-usd-exchange-rate-prediction
    ```
 
