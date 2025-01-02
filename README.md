@@ -38,7 +38,7 @@ The model's evaluation metrics indicate a strong performance:
 - **MAE**: 0.0679
 - **R-squared**: 0.9971
 
-This suggests that the model captures the underlying patterns of the exchange rate data very effectively.
+This suggests that the model captures the underlying patterns of the exchange rate data very effectively. Note: This is just for education. Despite the model seeming to work very well, I didn't test or account for overfitting. Use this model outside of the education domain at your own risk.
 
 ## Installation
 
