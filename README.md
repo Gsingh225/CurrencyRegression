@@ -90,16 +90,6 @@ R-squared: 0.9971741217154321
 Next Predicted THB/USD Exchange Rate: <value>
 ```
 
-## File Structure
-
-```
-.
-├── main.py              # Main script for preprocessing, training, and evaluating the model
-├── requirements.txt     # List of required Python libraries
-├── README.md            # Project documentation
-└── dataset/             # Directory to store the downloaded dataset
-```
-
 ## Future Improvements
 
 - Add more external features (e.g., macroeconomic indicators) to improve robustness.
